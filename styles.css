@@ -1,5 +1,64 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    background-color: #eee;
+    background-color: #eeeeee;
+    margin: auto;
+    padding: 50px;
+}
+
+.container {
+    background-color: linen;
+}
+
+h1 {
+    width: fit-content;
+    display: inline-block;
+    border-bottom: 1px solid black;
+    box-shadow: black 0px 5px 5px;
+    background-color: #eeeeee;
+}
+
+.message-container {
+    border: 1px solid black;
+    box-shadow: black 5px 5px 5px;
+    padding: 20px;
+    background-color: #eeeeee;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.wrapper > * {
+    margin: 20px;
+}
+
+.projects-area {
+    background-color: #c8c88b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.project-card {
+    margin: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #eeeeee;
+}
+
+.project-card:hover {
+    box-shadow: black 5px 5px 5px;
 }

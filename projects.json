@@ -17,12 +17,12 @@
     },
     {
       "name": "Simple Express Tutorial",
-      "description": "Code from following a tutorial on creating a simple express.js backend",
+      "description": "Code from following a tutorial on creating a simple express.js backend.",
       "link": "https://github.com/SamSchroder8046/simple-express"
     },
     {
       "name": "Final Year Capstone Project",
-      "description": "Final year project from software engineering course at LJMU (WIP) (No repository link)",
+      "description": "Final year project from software engineering course at LJMU. (WIP) (No repository link)",
       "link": ""
     }
   ]

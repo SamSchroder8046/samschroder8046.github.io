@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "name": "Bible Journal",
+      "description": "A web application for viewing the Bible online. Consumes an API and displays verses. (WIP)",
+      "link": "https://github.com/SamSchroder8046/BibleJournal"
+    },
+    {
+      "name": "Daily Planner",
+      "description": "A minimalistic daily planner frontend app.",
+      "link": "https://github.com/SamSchroder8046/Daily-Planner"
+    },
+    {
+      "name": "Password Generator",
+      "description": "A simple, web-based password generator.",
+      "link": "https://github.com/SamSchroder8046/Password-Generator"
+    }
+  ]
+}

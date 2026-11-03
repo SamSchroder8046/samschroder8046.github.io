@@ -71,3 +71,28 @@ h1 {
 .project-card:hover {
     box-shadow: black 5px 5px 5px;
 }
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2%;
+    width: fit-content;
+    height: 20px;
+    background-color: linen;
+}
+
+.nav-item {
+    background-color: #eeeeee;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 2%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}

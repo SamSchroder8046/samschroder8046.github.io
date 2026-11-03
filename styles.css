@@ -8,6 +8,7 @@ body {
 
 .container {
     background-color: linen;
+    border-radius: 2%;
 }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
     border-bottom: 1px solid black;
     box-shadow: black 0px 5px 5px;
     background-color: linen;
+    border-radius: 2%;
 }
 
 .message-container {
@@ -23,6 +25,7 @@ h1 {
     box-shadow: black 5px 5px 5px;
     padding: 20px;
     background-color: #eeeeee;
+    border-radius: 2%;
 }
 
 .wrapper {
@@ -34,6 +37,7 @@ h1 {
     margin: 20px;
     padding: 20px;
     border: 1px solid black;
+    border-radius: 2%;
 }
 
 
@@ -46,6 +50,7 @@ h1 {
     margin: 20px;
     padding: 20px;
     border: 1px solid black;
+    border-radius: 2%;
 }
 .wrapper > * {
     margin: 20px;
@@ -60,6 +65,7 @@ h1 {
     border: 1px solid black;
     padding: 20px;
     background-color: #eeeeee;
+    border-radius: 2%;
 }
 
 .project-card:hover {

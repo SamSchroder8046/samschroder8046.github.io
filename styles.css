@@ -103,6 +103,10 @@ nav {
     color: black;
 }
 
+.nav-item:hover {
+    background-color: aliceblue;
+}
+
 .contact-form-container {
     border: 1px solid black;
     border-radius: 2%;

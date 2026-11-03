@@ -8,7 +8,7 @@ const projects = $.getJSON("./projects.json", (json) => {
         const link = project.link;
         projects_area.append(
             `<div class="project-card">
-                <div>
+                <div class="project-text">
                     <h3>${name}</h3>
                     <p>${description}</p>
                 </div>

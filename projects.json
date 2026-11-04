@@ -3,7 +3,8 @@
     {
       "name": "Bible Journal",
       "description": "A web application for viewing the Bible online. Consumes an API and displays verses. (WIP)",
-      "link": "https://github.com/SamSchroder8046/BibleJournal"
+      "link": "https://github.com/SamSchroder8046/BibleJournal",
+      "isFeatured": true
     },
     {
       "name": "Daily Planner",
@@ -16,14 +17,33 @@
       "link": "https://github.com/SamSchroder8046/Password-Generator"
     },
     {
-      "name": "Simple Express Tutorial",
+      "name": "Express Tutorial",
       "description": "Code from following a tutorial on creating a simple express.js backend.",
       "link": "https://github.com/SamSchroder8046/simple-express"
     },
     {
       "name": "Final Year Capstone Project",
       "description": "Final year project from software engineering course at LJMU. (WIP) (No repository link)",
-      "link": ""
+      "link": "",
+      "isFeatured": true
+    },
+    {
+      "name": "Finance Tracker",
+      "description": "A PHP web application for tracking finances",
+      "link": "https://gitlab.com/CSMSTILL/5230comp_web_application_implementation/-/tree/7ff0d2999b75d346f6eb8db86c8c89f5164959d9/",
+      "isFeatured": true
+    },
+    {
+      "name": "Clean Code and Testing",
+      "description": "LJMU assignment on clean and reusable code and testing in Java",
+      "link": "https://gitlab.com/CSMSTILL/oosys-ref-26-solid-1138096/-/tree/7d0c0cf70ac62a08e52aaf8c355f90b4ac4f1180/",
+      "isFeatured": true
+    },
+    {
+      "name": "Console-Based Veterinary Management System (Group-Project)",
+      "description": "An LJMU project. A console-based veterinary management system with a persistent state. Made in Java and designed and developed by a team of students.",
+      "link": "https://gitlab.com/GeorgeLeLievre/OOSyS-26-DtSyS-GRP-13/-/tree/9ebbaeb42b09430ae1ef8150f1cdcea5ba0c4a91/",
+      "isFeatured": true
     }
   ]
 }

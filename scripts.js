@@ -4,7 +4,7 @@ const projects = $.getJSON("./projects.json", (json) => {
     for (let i = 0; i < numProjects; i++) {
         const project = json.projects[i];
         const name = project.name;
-        const description = project.description;
+        let description = project.description;
         const link = project.link;
         const isFeatured = project.isFeatured;
         let button = `<div class="project-links">
@@ -14,6 +14,7 @@ const projects = $.getJSON("./projects.json", (json) => {
                             </div>`
         if (link === "") {
             button = "";
+            description += " (No repository link)";
         }
         let featuredIcon;
         if (!isFeatured) {

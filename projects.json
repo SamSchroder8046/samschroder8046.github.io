@@ -40,8 +40,8 @@
       "isFeatured": true
     },
     {
-      "name": "Console-Based Veterinary Management System (Group-Project)",
-      "description": "An LJMU project. A console-based veterinary management system with a persistent state. Made in Java and designed and developed by a team of students.",
+      "name": "Console-Based Veterinary Management System (Group Assignment)",
+      "description": "An LJMU assignment. A console-based veterinary management system with a persistent state. Developed in Java and designed with UML.",
       "link": "https://gitlab.com/GeorgeLeLievre/OOSyS-26-DtSyS-GRP-13/-/tree/9ebbaeb42b09430ae1ef8150f1cdcea5ba0c4a91/",
       "isFeatured": true
     }
